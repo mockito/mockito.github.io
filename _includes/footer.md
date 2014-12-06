@@ -7,3 +7,5 @@ Want to [contribute?](https://github.com/mockito/mockito/wiki/How%20To%20Contrib
 Issue [tracker](https://github.com/mockito/mockito/issues)
 &mdash;
 Mailing [list](http://groups.google.com/group/mockito)
+&mdash;
+Training [offering](link needed)
