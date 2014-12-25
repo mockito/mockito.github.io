@@ -8,4 +8,4 @@ Issue [tracker](https://github.com/mockito/mockito/issues)
 &mdash;
 Mailing [list](http://groups.google.com/group/mockito)
 &mdash;
-Training [offering](link needed)
+Training [offering](#training)
