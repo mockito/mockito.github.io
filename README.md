@@ -8,8 +8,8 @@ The site is built with Jekyll and [github.com/t413/SinglePaged](https://github.c
 
 # Working with site
 
-The site is built with Jekyll and [github.com/t413/SinglePaged](https://github.com/t413/SinglePaged) theme. See GitHub help on [https://help.github.com/articles/using-jekyll-with-pages/](using jekyll).
+The site is built with Jekyll and [github.com/t413/SinglePaged](https://github.com/t413/SinglePaged) theme. See [GitHub help on using Jekyll](https://help.github.com/articles/using-jekyll-with-pages/).
 
-If you have jekyll installed type 'jekyll serve' to get started.
+If you have Jekyll installed type 'jekyll serve' to get started.
 
 
