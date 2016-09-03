@@ -15,7 +15,7 @@ title:       "Mockito framework site"
 keywords:    "java, mocking, mock, mock objects, testing, tdd, unit tests"
 description: "A landing page for information about Mockito framework, a mocking framework for unit tests written in Java."
 source_link: "https://github.com/mockito/mockito"
-favicon:     #put a path like: "img/favicon.ico"
+favicon:     "favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
