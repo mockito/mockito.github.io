@@ -32,7 +32,7 @@ code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
 
 /* spesifically inline code */
 code, pre {
-  background: rgba(51,51,51,0.9);
+  background: rgba(255,255,255,0.2);
   display: inline;
   word-wrap: break-word;
 }
@@ -43,11 +43,14 @@ pre {
   display: block;
   margin: 20px 5%;
   padding: 4px 8px;
-  background: rgba(51,51,51,0.9);
+  background: rgba(255,255,255,0.1);
   word-wrap: break-word;
 }
 
-.highlight { margin:20px 5%; }
+.highlight {
+  margin:20px 5%;
+  padding: 5px;
+}
 
 
 /* ----- base elements ----- */
@@ -135,7 +138,7 @@ nav ul {
 nav ul li {
   display:inline-block;
   border-top:{{navborder}}px solid;
-  padding: {{navborder}}px 0;
+  padding: {{navborder}}px;
   *display:inline;
   zoom:1;
   line-height:normal;

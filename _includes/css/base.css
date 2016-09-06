@@ -100,7 +100,7 @@
 /* #Lists
 ================================================== */
 	ul, ol { margin-bottom: 20px; }
-	ul { list-style: none outside; text-align: left; }
+	ul { list-style: none outside; }
 	ol { list-style: decimal; }
 	ul, ul.square { list-style: square outside; }
 	ul ul, ul.circle { list-style: circle outside; }
@@ -274,7 +274,14 @@
   width:90%;
 }
 
-.highlight pre, .highlight code { display:block; margin:0; padding:0; background: none; overflow:auto; word-wrap: normal; }
+.highlight pre, .highlight code {
+  display:block;
+  margin:0;
+  padding:2px;
+  background: none;
+  overflow:auto;
+  word-wrap: normal;
+}
 
 .highlight, .linenodiv {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIHWPQ1dU1BgABzQC7XXMTYQAAAABJRU5ErkJggg==);
