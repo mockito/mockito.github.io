@@ -10,6 +10,10 @@ The site is built with Jekyll and based on the [github.com/t413/SinglePaged](htt
 Clone this repository and install Jekyll:
 
     sudo gem install github-pages
+    
+If you get permission problems on latest Mac OSx try:
+	
+	sudo gem install -n /usr/local/bin/ github-pages
 
 Then you can serve with Jekyll:
 
