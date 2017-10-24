@@ -2,7 +2,7 @@
 
 Mockito is [open source]({{ site.source_link }})
 &mdash;
-Want to [contribute?](https://github.com/mockito/mockito/blob/master/CONTRIBUTING.md)
+Want to [contribute?](https://github.com/mockito/mockito/blob/master/.github/CONTRIBUTING.md)
 &mdash;
 Issue [tracker](https://github.com/mockito/mockito/issues)
 &mdash;
